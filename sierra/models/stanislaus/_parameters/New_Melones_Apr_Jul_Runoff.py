@@ -1,5 +1,5 @@
 import numpy as np
-from sierra.base_parameters import BaseParameter
+from cen_sierra_pywr.sierra.base_parameters import BaseParameter
 
 
 class New_Melones_Apr_Jul_Runoff(BaseParameter):
