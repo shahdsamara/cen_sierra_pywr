@@ -1,6 +1,6 @@
-from sierra.base_parameters import MinFlowParameter
+from cen_sierra_pywr.sierra.base_parameters import MinFlowParameter
 
-from sierra.utilities.converter import convert
+from cen_sierra_pywr.sierra.utilities.converter import convert
 
 
 class Donnell_Lake_Spill_Min_Requirement(MinFlowParameter):
