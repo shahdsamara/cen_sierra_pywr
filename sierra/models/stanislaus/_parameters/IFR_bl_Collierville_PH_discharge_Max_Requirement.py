@@ -1,6 +1,6 @@
-from sierra.base_parameters import FlowRangeParameter
+from cen_sierra_pywr.sierra.base_parameters import FlowRangeParameter
 
-from sierra.utilities.converter import convert
+from cen_sierra_pywr.sierra.utilities.converter import convert
 
 
 class IFR_bl_Collierville_PH_discharge_Max_Requirement(FlowRangeParameter):
