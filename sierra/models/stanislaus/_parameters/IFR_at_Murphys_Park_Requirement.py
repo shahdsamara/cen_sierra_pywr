@@ -1,7 +1,7 @@
 import numpy as np
-from sierra.base_parameters import MinFlowParameter
+from cen_sierra_pywr.sierra.base_parameters import MinFlowParameter
 
-from sierra.utilities.converter import convert
+from cen_sierra_pywr.sierra.utilities.converter import convert
 
 
 class IFR_at_Murphys_Park_Requirement(MinFlowParameter):
